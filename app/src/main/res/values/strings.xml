@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdditionalLab</string>
+    <string name="btn_1">Start</string>
+    <string name="btn_2">Stop</string>
+    <string name="btnStart">Start</string>
+    <string name="btnStop">Stop</string>
+</resources>
